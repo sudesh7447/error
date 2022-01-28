@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272224641591",
+    "project_id": "loginapp-85abe",
+    "storage_bucket": "loginapp-85abe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272224641591:android:7e500a6ac66e442d0195b2",
+        "android_client_info": {
+          "package_name": "com.getxlogins.firebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272224641591-2s1gpajp4snl266q3tj9v6ug4c7cf1uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcVh4goulJYXNN3aAUHK-YP4ggsuzgB8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272224641591-2s1gpajp4snl266q3tj9v6ug4c7cf1uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
